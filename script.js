@@ -48,7 +48,6 @@ async function getPhotos() {
 
 const options = {
   root: null,
-  rootMargin: "750px",
   threshold: 0.1,
 };
 const callback = (entries) => {
